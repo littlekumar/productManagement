@@ -1,0 +1,19 @@
+In this project i used react as a frontend and Django as a backend.
+Forntend - Directory contains react code
+Product_management - Directory contains django code
+
+Steps 1 - Django Setup:
+    a. GO inside product_management directory
+    b. run below mentioned commands for setup
+        - pip install -r requirements.txt
+        - py manage.py makemigrations
+        - py manage.py migrate
+        - py manage.py runserver 8000
+
+step 2 - React Setup:
+    a. go inside frontend directory
+    b. run below mentioned commands for setup
+        - npm install
+        - npm install bootstrap
+        - npm start
+
